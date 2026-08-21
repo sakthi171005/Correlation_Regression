@@ -25,9 +25,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 
-#output :
+# Output : 
 <img width="1043" height="648" alt="WhatsApp Image 2026-08-21 at 3 22 41 PM" src="https://github.com/user-attachments/assets/ad9d8b43-544b-4caf-876d-8dfad2ae70ac" />
 
 
- #Result
+ # Results
  The Given Correlation and regression for data analysis are calculated.
